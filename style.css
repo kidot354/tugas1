@@ -1,0 +1,17 @@
+.judul{
+	background-color: blue;
+	color: white;
+}
+.button{
+	background-color: yellow;
+	color: black;
+	border: none;
+	border-radius:4px;
+}
+.button:hover{
+	color: black;
+}
+.t{
+	border: 1px solid black;
+	border-radius: 5px;
+}
